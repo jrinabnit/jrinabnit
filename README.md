@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Jeremy. I'm a frontend developer who once thought he could become a full stack developer but then decided to focus more on the frontend (for now). My repositories here are from when I was learning and building personal projects. On my coding timeline, you'll see blank spaces where no personal code has been committed. During those times, I was either committing code to a private repository as a freelancer or witnessing the birth of my son or on a long run. 
+
+Have a look around and get in touch!
 <!--
 **jrinabnit/jrinabnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
