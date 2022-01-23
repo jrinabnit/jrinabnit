@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jeremy. I'm a frontend developer with a bit of fullstack experience. My repositories are from when I was learning and building personal projects. My professional code is not here and thus the reason for the gaps in my commit activity. 
+I'm Jeremy, a frontend developer with a bit of fullstack experience. My repositories are from when I was learning and building personal projects. My professional code is not here and thus the reason for the gaps in my commit activity. 
 
 Have a look around and get in touch!
 <!--
